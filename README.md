@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Banner.gif">
+  <img src="./asset/Banner.gif">
 </div>
 
 <h1 align="center">Hi, I'm John Nicole (a.k.a Ji-an)</h1>
