@@ -3,15 +3,12 @@
 </div>
 
 <h1 align="center">Hi, I'm John Nicole (a.k.a Ji-an)</h1>
-<h3 align="center">Frontend Developer | UI/UX Developer | Data Analyst | RPA Developer</h3>
+<h3 align="center">Software Developer | Frontend & UI/UX | Data Analyst | RPA Developer</h3>
 <img align="right" alt="side gif" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiandeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="jiandeveloper" /></p>
-- 🌱 I’m currently learning **Next.JS**
   
 - 👨‍💻 All of my projects are available at [(coming soon!)]
-  
-- 💬 Ask me about **React, CSS, Tailwind, VBA**
   
 - 📫 How to reach me **jian.official.dev@gmail.com**
   
@@ -55,7 +52,7 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
-
+  <a href="https://www.workforcesoftware.com/" target="_blank" rel="noreferrer"> <img src="https://localhr.co/storage/user_files/employers/132/logo.png" alt="unity" width="40" height="40"/> </a></p>
 <br/>
 
 <p align="center">
